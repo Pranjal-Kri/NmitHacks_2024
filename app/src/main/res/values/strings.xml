@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BlockTrack</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="signin">Sign In</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+</resources>
